@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Atrylix 👋
 
-<!--
-**Atrylix/Atrylix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer who enjoys building things from the ground up.
 
-Here are some ideas to get you started:
+## 🚀 Main Skills
+- **Languages:** Python, HTML, CSS
+- **Also familiar with:** ARM Assembly, C#, Bash, PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Django (Python web framework)
+- Tailwind CSS
+
+## 🛠️ Featured Project
+
+### [Cove: The Bridge Between Silence and Support](https://atrylix.github.io/cove-landing-page/)
+Cove is my favorite project so far! While the main platform is still in early development, you can check out the [landing page](https://atrylix.github.io/cove-landing-page/) for a sneak peek at what’s coming.
+
+---
+
+Thanks for stopping by! 🚧 This profile (and my projects) are always under construction as I keep learning and building.
